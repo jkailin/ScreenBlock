@@ -1,12 +1,16 @@
 # ScreenBlock
 
+🚧 🚧 🚧 🚧 Work in progress 🚧 🚧 🚧 🚧
+
 ## Description
 Block an entire screen so it's not distracting.
 
 ## Instructions
-Click window to write a description for the current task.
-
 **F11** to exit fullscreen mode (useful for moving window to other screens).
+
+## Tech
+* Electron
+* Electron Forge
 
 ## Personal favorite productivity tools
 * [Freedom](https://freedom.to/)
